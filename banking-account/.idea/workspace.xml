@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/domain/AccountAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/domain/AccountAggregate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cqrs-eventsourcing/cqrs.core/src/main/java/com/banking/cqrs/core/messages/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cqrs-eventsourcing/cqrs.core/src/main/java/com/banking/cqrs/core/messages/Message.java" afterDir="false" />
-    </list>
+    <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
