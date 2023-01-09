@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="" />
+    <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infrastructure/AccountEventSourcingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/infrastructure/AccountEventSourcingHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/banking-account/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/banking-account/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cqrs-eventsourcing/cqrs.core/src/main/java/com/banking/cqrs/core/handlers/EventSourcingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cqrs-eventsourcing/cqrs.core/src/main/java/com/banking/cqrs/core/handlers/EventSourcingHandler.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
