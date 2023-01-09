@@ -15,6 +15,11 @@ import java.time.LocalDateTime;
 public class AccountAggregate extends AggregateRoot {
 
     private Boolean active;
+
+    public BigDecimal getBalance() {
+        return balance;
+    }
+
     private BigDecimal balance;
 
     public AccountAggregate(OpenAccountCommand command) {
