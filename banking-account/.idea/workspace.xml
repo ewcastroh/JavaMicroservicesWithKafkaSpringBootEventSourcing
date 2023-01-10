@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/CloseAccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/CloseAccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/AccountQueryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/account.query/src/main/java/com/banking/account/query/api/queries/AccountQueryHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
