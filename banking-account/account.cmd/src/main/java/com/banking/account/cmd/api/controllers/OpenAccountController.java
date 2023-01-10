@@ -33,7 +33,7 @@ public class OpenAccountController {
         try {
             commandDispatcher.send(command);
             return new ResponseEntity<>(
-                    new OpenAccountResponse("New banking account has been created successfully", id),
+                    new OpenAccountResponse("New banking account has been created successfully!", id),
                     HttpStatus.CREATED);
         } catch (IllegalStateException e) {
             logger.log(Level.WARNING, MessageFormat.format("It could not create the new banking account - {0}", e.toString()));
