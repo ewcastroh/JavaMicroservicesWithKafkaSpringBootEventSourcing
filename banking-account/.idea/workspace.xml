@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/banking-account/account.cmd/src/main/java/com/banking/account/cmd/api/controllers/OpenAccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banking-account/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/banking-account/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="702c9e72-8f0f-49ab-a711-b9650d1bb622" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +90,40 @@
     <option name="myCommands">
       <command value="mvn clean install" />
     </option>
+  </component>
+  <component name="RunManager" selected="Application.QueryApplication">
+    <configuration name="CommandApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banking.account.cmd.CommandApplication" />
+      <module name="account.cmd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banking.account.cmd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.banking.account.query.QueryApplication" />
+      <module name="account.query" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banking.account.query.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QueryApplication" />
+        <item itemvalue="Application.CommandApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

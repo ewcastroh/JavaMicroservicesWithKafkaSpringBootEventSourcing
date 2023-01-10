@@ -22,8 +22,6 @@ import java.time.LocalDateTime;
 @Entity
 public class BankAccount extends BaseEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
-    @Column(name = "id", nullable = false)
     private String id;
     private String accountHolder;
     private LocalDateTime creationDate;
